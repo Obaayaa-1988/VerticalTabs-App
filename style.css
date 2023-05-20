@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(0, 128, 128);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* .container{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+.content-div{
+    width: 40rem;
+    color: white;
+    padding:  1rem;
+    background-color: rgb(255, 128, 0);
+    border-radius: 10px;
+    text-align: center;
+} */
+
+/* .content-div > * {
+    margin-bottom: 2rem;
+}
+
+.count{
+    font-size:  4rem;
+}
+
+.buttons button{
+    padding: 1rem;
+    margin: 0 1rem;
+    font-size: 1.5rem;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+
+buttons.reset{
+    background-color: white;
+} */
+/*
+from pounds to kilograms
+kilograms = x / 2.2046
+grams = x / 0.0022046
+ounces = x * 16
+
+*/
+/*
+from kilograms to 
+pounds = x *  2.2046
+grams = x * 1000
+ounces = x * 35.274
+
+*/
+
+/*
+from grams to 
+pounds = x *  0.0022046
+kilograms = x / 1000
+ounces = x * 0.035274
+
+*/
+
+/*
+from ounces to 
+pounds = x *  0.0625
+kilograms = x / 0.035274
+grams = x * 0.035274
+
+*/
