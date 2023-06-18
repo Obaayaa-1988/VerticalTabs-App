@@ -28,3 +28,12 @@ body{
 .tab-links{
     width:  25%;
 }
+
+button.tab-link{
+    padding: 1.2rem;
+    width: 100%;
+    font-size:1.6rem;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid blue;
+}
