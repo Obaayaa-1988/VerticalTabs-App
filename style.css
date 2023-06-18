@@ -29,7 +29,7 @@ body{
     width:  25%;
 }
 
-button.tab-link{
+.tab-link{
     padding: 1.2rem;
     width: 100%;
     font-size:1.6rem;
