@@ -41,3 +41,7 @@ body{
 .active{
     background-color: white;
 }
+
+.about{
+    display: block;
+}
